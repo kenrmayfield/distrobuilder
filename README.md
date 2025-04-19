@@ -116,6 +116,12 @@ your system will need certain tools installed:
 
 See [How to use `distrobuilder`](doc/howto/build.md) for instructions.
 
+Using Distrobuilder to Create Container Images for LXC and LXD - [Link](https://blog.simos.info/using-distrobuilder-to-create-container-images-for-lxc-and-lxd/)
+
+How to Create a Minimal Container Image for LXC/LXD with Distrobuilder - [Link](https://blog.simos.info/how-to-create-a-minimal-container-image-for-lxc-lxd-with-distrobuilder/)
+
+Distrobuilder for LXC - [Link](https://www.hackwiki.de/en/blog/distrobuilder/)
+
 ## Troubleshooting
 
 See [Troubleshoot `distrobuilder`](doc/howto/troubleshoot.md).
