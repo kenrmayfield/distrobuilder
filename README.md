@@ -124,7 +124,7 @@ Distrobuilder for LXC: [Link](https://www.hackwiki.de/en/blog/distrobuilder/)
 
 YAML Template Images: [Link](https://github.com/lxc/lxc-ci/tree/main/images)
 
-Documentation of the YAML Template Configuration File: [Link](https://linuxcontainers.org/distrobuilder/docs/latest/tutorials/use/#:~:text=yaml%20ubuntu.yaml-,Edit%20the%20template%20file,-%C2%B6)
+Documentation of the YAML Template Configuration File: [Link](https://linuxcontainers.org/distrobuilder/docs/latest/tutorials/use/#:~:text=Edit%20the%20template,the%20following%20keys%3A)
 
 ## Troubleshooting
 
